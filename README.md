@@ -7,3 +7,6 @@ Data Types, Sum of 2 no.s, area n perimeter of rectangle , swap 2 variables with
 
 Day-2 Operators
 1 combine code for all operators(Take sum amount from user and return the no. of denomination of notes needed to cover that amount)
+
+Day-3 If-else Conditional Statements
+6 codes Max of 2 no., max of 3 no.(2 appproaches), odd-even , basic concepts
