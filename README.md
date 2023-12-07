@@ -12,3 +12,7 @@ Day-3 If-else Conditional Statements
 6 codes Max of 2 no., max of 3 no.(2 appproaches), odd-even , basic concepts
 
 Day-4 Call by value/pass by value
+
+Day-5 Functions
+4 Codes Sum of 2 no.s through 4 different types of user-defined functions
+
