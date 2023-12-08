@@ -16,3 +16,6 @@ Day-4 Call by value/pass by value
 Day-5 Functions
 4 Codes Sum of 2 no.s through 4 different types of user-defined functions
 
+Day-6 Functions Examples
+3 codes Multiply of 2 no.s,Factorial, Binomial Coefficient i.e NcR formula.
+
