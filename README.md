@@ -19,3 +19,6 @@ Day-5 Functions
 Day-6 Functions Examples
 3 codes Multiply of 2 no.s,Factorial, Binomial Coefficient i.e NcR formula.
 
+Day-7 Function Overloading
+Overloading using parameters and data types
+
