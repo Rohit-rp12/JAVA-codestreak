@@ -23,4 +23,4 @@ Day-7 Function Overloading
 Overloading using parameters and data types
 
 Day-8,9 While loop
-
+10 codes check prime no., prime factor,armstrong no., factorial, pallindrome, max n min. digit, count no. of digits,sum of digits, sum of n different no.s, sum of no.s
