@@ -27,3 +27,6 @@ Day-8,9 While loop
 
 Day-10 For Loop 
 9 different types of series problems
+
+Day-11 Switch-Case
+2 codes print language, print number in words
