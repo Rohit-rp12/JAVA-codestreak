@@ -30,3 +30,6 @@ Day-10 For Loop
 
 Day-11 Switch-Case
 2 codes print language, print number in words
+
+Day-12 Number Conversion
+2 codes Binary to decimal and decimal to Binary
